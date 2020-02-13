@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab4-Jesse Gajda 000750483</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Enter_Text">Enter Text</string>
+    <string name="btnSmall">Small</string>
+    <string name="btnMedium">Medium</string>
+    <string name="btnLarge">Large</string>
+</resources>
